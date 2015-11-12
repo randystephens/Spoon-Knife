@@ -10,3 +10,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 This is my own personal comment.
 And here is one more comment, just for good measure.
+
+This comment, unlike the preceding two, was made on the GitHub website.
